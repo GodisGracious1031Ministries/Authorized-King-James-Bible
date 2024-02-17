@@ -1,6 +1,6 @@
 Authorized King James Bible Applications lets users read the Bible and do quizzes based on each chapter: 
 
-1. It is supported on Windows versions higher than 10 which can run the Windows Terminal App and is not in S Mode.
+1. It is supported on all versions of Windows 10/11 that can run the Windows Terminal App that can be downloaded above and is not in S Mode. 
 
 Note: 
 
