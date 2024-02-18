@@ -5,7 +5,6 @@ Authorized King James Bible Applications lets users read the Bible and do quizze
 Note: 
 
 1. This application may trigger security software and please ignore it as it is a false alaram.
-2. This github page used to be on another account which I lost access to
 
 Thank you and have a wonderful day!
 
